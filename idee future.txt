@@ -1,0 +1,8 @@
+Appena sapremo creare sprite, inserire nome easter egg per fare un final boss ancora piu op.
+Aggiungere piu storia.
+2a battaglia standard goblin.
+2a battaglia con easter egg numero 666 (nella selez delle azioni solo nella prima fight), combatti contro un demone (non puoi usare easter egg instawin).
+durante combatt demone se premi 8 (easter egg) ti buffi con doppia vita e doppio danno.
+cura demone 1 sola volta.
+demone schivata random.
+se quando attacchi demone la sua vita va sotto o pari a 0 elimini il danno in eccesso e lo refulli.
